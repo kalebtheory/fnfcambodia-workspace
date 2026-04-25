@@ -1,0 +1,105 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+const fighters = await getCollection("fighters");
+---
+
+<BaseLayout
+  title="Fighter Roster — FNF Cambodia"
+  description="Browse the complete FNF Cambodia fighter roster. Kun Khmer and MMA athletes."
+>
+  <div class="pt-32 sm:pt-40 pb-24 min-h-screen">
+    <div class="max-w-7xl mx-auto px-6 sm:px-8">
+      <header class="mb-16">
+        <div class="inline-flex items-center gap-3 px-4 py-2 rounded-full bg-white/5 border border-white/10 text-brand-gold font-medium text-sm tracking-widest uppercase mb-6">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>
+          <span>Official Roster</span>
+        </div>
+        <h1 class="text-4xl sm:text-5xl md:text-6xl font-display font-black uppercase tracking-tighter text-white mb-6">
+          Fighter <span class="text-brand-gold">Roster</span>
+        </h1>
+        <p class="text-xl text-[#888] font-medium leading-relaxed max-w-2xl">
+          The warriors of Friday Night Fights. From legendary Kun Khmer strikers to rising MMA prospects.
+        </p>
+      </header>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {fighters.map((fighter) => {
+          const kk = fighter.data.kunKhmerRecord;
+          const mma = fighter.data.mmaRecord;
+          const hasBoth = kk && mma;
+
+          return (
+            <a href={`/fighters/${fighter.id.replace(/\.md$/, '')}`} class="fighter-card group relative bg-[#0a0a0a] rounded-3xl border border-white/5 overflow-hidden block" id={`fighter-card-${fighter.id.replace(/\.md$/, '')}`}>
+              {/* Hero image area */}
+              <div class="aspect-[4/3] bg-gradient-to-br from-brand-gold/10 via-brand-gold/5 to-transparent relative overflow-hidden">
+                <div class="absolute top-4 right-4 z-20 flex items-center gap-2">
+                  {kk && (
+                    <span class="text-[9px] font-black uppercase tracking-[0.2em] px-3 py-1.5 rounded-full border text-brand-gold border-brand-gold/30 bg-brand-gold/10">
+                      KK
+                    </span>
+                  )}
+                  {mma && (
+                    <span class="text-[9px] font-black uppercase tracking-[0.2em] px-3 py-1.5 rounded-full border text-blue-400 border-blue-400/30 bg-blue-400/10">
+                      MMA
+                    </span>
+                  )}
+                </div>
+                <div class="absolute inset-x-0 bottom-0 bg-gradient-to-t from-[#0a0a0a] via-[#0a0a0a]/80 to-transparent pt-16 pb-6 px-6 z-10">
+                  <span class="text-[10px] font-black uppercase tracking-[0.2em] text-brand-gold/80 block mb-1">{fighter.data.weightClass}</span>
+                  <h2 class="text-2xl font-display font-black uppercase tracking-tight text-white group-hover:text-brand-gold transition-colors">{fighter.data.name}</h2>
+                </div>
+              </div>
+
+              {/* Discipline record stats */}
+              <div class={`px-5 py-4 border-t border-white/5 ${hasBoth ? 'grid grid-cols-2 gap-3' : ''}`}>
+                {/* Kun Khmer Record */}
+                {kk && (
+                  <div class={`${hasBoth ? 'pr-3 border-r border-white/5' : ''}`}>
+                    <span class="text-[8px] font-black uppercase tracking-[0.2em] text-brand-gold block mb-2">Kun Khmer</span>
+                    <div class="flex items-center gap-3">
+                      <span class="text-sm font-black">
+                        <span class="text-green-400">{kk.wins}</span>
+                        <span class="text-white/20">-</span>
+                        <span class="text-red-400">{kk.losses}</span>
+                        <span class="text-white/20">-</span>
+                        <span class="text-white/40">{kk.draws}</span>
+                      </span>
+                      <span class="text-[8px] font-black uppercase tracking-widest text-white/25">W-L-D</span>
+                    </div>
+                    <div class="flex items-center gap-1.5 mt-1">
+                      <span class="text-xs font-black text-brand-gold">{kk.kos}</span>
+                      <span class="text-[7px] font-black uppercase tracking-widest text-brand-gold/50">KOs</span>
+                    </div>
+                  </div>
+                )}
+
+                {/* MMA Record */}
+                {mma && (
+                  <div class={`${hasBoth ? 'pl-3' : ''}`}>
+                    <span class="text-[8px] font-black uppercase tracking-[0.2em] text-blue-400 block mb-2">MMA</span>
+                    <div class="flex items-center gap-3">
+                      <span class="text-sm font-black">
+                        <span class="text-green-400">{mma.wins}</span>
+                        <span class="text-white/20">-</span>
+                        <span class="text-red-400">{mma.losses}</span>
+                        <span class="text-white/20">-</span>
+                        <span class="text-white/40">{mma.draws}</span>
+                      </span>
+                      <span class="text-[8px] font-black uppercase tracking-widest text-white/25">W-L-D</span>
+                    </div>
+                    <div class="flex items-center gap-1.5 mt-1">
+                      <span class="text-xs font-black text-brand-gold">{mma.kos}</span>
+                      <span class="text-[7px] font-black uppercase tracking-widest text-brand-gold/50">KOs</span>
+                    </div>
+                  </div>
+                )}
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </div>
+</BaseLayout>
