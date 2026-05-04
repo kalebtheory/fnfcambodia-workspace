@@ -2,7 +2,8 @@ import { Menu, X, UserPlus, ChevronRight, Home as HomeIcon, Video, Trophy, Users
 import { useState, useEffect } from "react";
 import { Link, Outlet, useLocation, useParams, useNavigate } from "react-router-dom";
 import { motion, AnimatePresence } from "motion/react";
-import { translations, Language } from "../data/translations";
+import { translations } from "../data/translations";
+import type { Language } from "../data/translations";
 
 export default function Layout() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

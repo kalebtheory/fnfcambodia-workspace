@@ -12,7 +12,7 @@ mmaRecord:
   losses: 5
   draws: 0
   kos: 4
-heroImage: "/fighters/sok-thy.jpg"
+heroImage: "../../assets/fighters/sok-thy.png"
 ---
 
 # Sok Thy — The Spider

@@ -1,7 +1,7 @@
 import { Link, useOutletContext } from 'react-router-dom';
 import { fighters } from '../data/fighters';
 import { Home, Users, Video, Info, FileText, ChevronRight, Map } from 'lucide-react';
-import { Language } from '../data/translations';
+import type { Language } from '../data/translations';
 
 export default function Sitemap() {
   const { language } = useOutletContext<{ language: Language }>();

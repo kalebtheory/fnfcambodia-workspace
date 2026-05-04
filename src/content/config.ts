@@ -13,13 +13,13 @@ const disciplineRecord = z.object({
 
 const fighters = defineCollection({
   type: 'content',
-  schema: z.object({
+  schema: ({ image }) => z.object({
     name: z.string(),
     style: z.string(),
     weightClass: z.string(),
     kunKhmerRecord: disciplineRecord.optional(),
     mmaRecord: disciplineRecord.optional(),
-    heroImage: z.string(),
+    heroImage: image(),
   }),
 });
 

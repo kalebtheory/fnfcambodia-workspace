@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 3
   draws: 1
   kos: 14
-heroImage: "/fighters/prom-samnang.jpg"
+heroImage: "../../assets/fighters/prom-samnang.png"
 ---
 
 # Prom Samnang — The Golden Elbow
