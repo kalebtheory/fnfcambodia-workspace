@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 5
   draws: 2
   kos: 50
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/pich-singhak.jpg"
 ---
 
 # Pich Singhak — Krou Khmeng (the young master)

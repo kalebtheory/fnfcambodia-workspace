@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 2
   draws: 0
   kos: 14
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/rithy-kingkong.jpg"
 ---
 
 # Rithy Kingkong — Kon Kingkong Pikheat (The Young Killer Kingkong)

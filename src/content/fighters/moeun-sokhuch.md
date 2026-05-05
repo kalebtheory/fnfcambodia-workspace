@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 23
   draws: 5
   kos: 45
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/moeun-sokhuch.jpg"
 ---
 
 # Moeun Sokhuch — Runtah Chaoeng Dang Tonle Sab (the thunderous kick of Tonle Sab)

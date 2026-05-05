@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 25
   draws: 3
   kos: 30
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/chan-sam-art.jpg"
 ---
 
 # Chan Sam Art — Kandap Dai Pyus Samot (The Storm Fist of the Sea)

@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 18
   draws: 9
   kos: 27
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/som-piseth.jpg"
 ---
 
 # Som Piseth

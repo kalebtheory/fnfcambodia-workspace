@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 9
   draws: 3
   kos: 21
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/long-ada.jpg"
 ---
 
 # Long Ada

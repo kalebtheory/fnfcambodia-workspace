@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 16
   draws: 5
   kos: 68
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/lorn-panha.jpg"
 ---
 
 # Lorn Panha — All-in Warrior

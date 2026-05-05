@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 36
   draws: 2
   kos: 71
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/chhoeung-lvei.jpg"
 ---
 
 # Chhoeung Lvei — Neakareach Khmao Chaktomuk (the Black Naga of Chaktomuk)

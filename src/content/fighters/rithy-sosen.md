@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 14
   draws: 1
   kos: 26
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/rithy-sosen.jpg"
 ---
 
 # Rithy Sosen

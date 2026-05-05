@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 25
   draws: 2
   kos: 33
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/choir-pov.jpg"
 ---
 
 # Choir Pov — Nak Leng Kaeng Chhok (the swift elbow)

@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 15
   draws: 2
   kos: 27
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/khim-dima.png"
 ---
 
 # Khim Dima — Neak Khmao

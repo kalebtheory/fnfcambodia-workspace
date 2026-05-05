@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 17
   draws: 10
   kos: 44
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/long-piseth.jpg"
 ---
 
 # Long Piseth — Kandol Chraek Dei (The Subterranean Scuttler)

@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 1
   draws: 2
   kos: 28
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/pich-atitep.jpg"
 ---
 
 # Pich Atitep — Pich Kheat Muk Sros (The Angel of Death)

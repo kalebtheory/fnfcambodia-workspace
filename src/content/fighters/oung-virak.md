@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 11
   draws: 9
   kos: 26
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/oung-virak.jpg"
 ---
 
 # Oung Virak

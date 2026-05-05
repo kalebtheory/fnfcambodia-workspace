@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 8
   draws: 2
   kos: 15
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/lao-rachana.jpg"
 ---
 
 # Lao Rachana

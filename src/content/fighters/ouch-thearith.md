@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 14
   draws: 6
   kos: 47
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/ouch-thearith.jpg"
 ---
 
 # Ouch Thearith — Chor Chork Khmao (the Black Wolf)

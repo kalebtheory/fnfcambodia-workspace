@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 8
   draws: 2
   kos: 22
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/seng-try.jpg"
 ---
 
 # Seng Try — Kaeng Pikheat (the Killer Elbow)

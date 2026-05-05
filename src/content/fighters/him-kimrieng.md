@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 12
   draws: 1
   kos: 31
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/him-kimrieng.jpg"
 ---
 
 # Him Kimrieng — Chungkung Pikheat Dambang Kranhoung (Killer Knee, rosewood stick)

@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 26
   draws: 5
   kos: 69
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/bird-sangkhim.jpg"
 ---
 
 # Bird Sangkhim — Nak Laeng Chet Sas (the Psychologist)

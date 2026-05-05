@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 7
   draws: 2
   kos: 61
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/lor-samnang.jpg"
 ---
 
 # Lor Samnang — Khla Kamnach (The Fierce Tiger)

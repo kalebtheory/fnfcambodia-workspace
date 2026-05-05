@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 20
   draws: 6
   kos: 31
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/morn-prum-manh.jpg"
 ---
 
 # Morn Prum Manh
