@@ -1,44 +1,120 @@
 ---
-// src/pages/index.astro — Crush Combat landing v2
-// Architects of the Combat Economy — agency + media house
-// Section order locked in .gstack/refs/DESIGN.md
+// src/pages/index.astro — Homepage
 import BaseLayout from "../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
 
-import Hero from "../components/landing/Hero.astro";
-import AgencyProof from "../components/landing/AgencyProof.astro";
-import DisciplineSelector from "../components/landing/DisciplineSelector.astro";
-import RosterStrip from "../components/landing/RosterStrip.astro";
-import UpcomingFights from "../components/landing/UpcomingFights.astro";
-import MediaHouse from "../components/landing/MediaHouse.astro";
-import Mission from "../components/landing/Mission.astro";
-import StorytellingTrio from "../components/landing/StorytellingTrio.astro";
-import PartnerLogos from "../components/landing/PartnerLogos.astro";
-import ApparelCallout from "../components/landing/ApparelCallout.astro";
-import ApplyCTA from "../components/landing/ApplyCTA.astro";
+import FighterCard from "../components/FighterCard.astro";
+
+const fighters = await getCollection("fighters");
 ---
 
 <BaseLayout
-  title="Crush Combat — Architects of the Combat Economy | MMA Talent Agency & Broadcast Media House"
-  description="Southeast Asia's premier MMA talent agency and broadcast media house. Scouting elite fighters in MMA, Kun Khmer, and Grappling. Powering Khmer Flow Arena."
+  title="FNF Cambodia — Friday Night Fights | Kun Khmer & MMA"
+  description="Cambodia's premier combat sports platform. Watch high-octane Kun Khmer and MMA fights, discover elite fighters, and experience Southeast Asia's most electrifying fight league."
 >
-  <Hero />
-  <AgencyProof />
-  <DisciplineSelector />
-  <RosterStrip />
-  <UpcomingFights />
-  <MediaHouse />
-  <Mission />
-  <StorytellingTrio />
-  <PartnerLogos
-    tier="sponsor"
-    eyebrow="Partners"
-    heading="Trusted Sponsors"
-  />
-  <PartnerLogos
-    tier="promotion"
-    eyebrow="Promotions"
-    heading="Powered By Crush Combat"
-  />
-  <ApparelCallout />
-  <ApplyCTA />
+  <!-- ═══════════ HERO SECTION ═══════════ -->
+  <section class="relative min-h-screen flex items-center justify-center overflow-hidden">
+    <!-- Gradient overlay background -->
+    <div class="absolute inset-0 bg-gradient-to-b from-brand-dark via-brand-dark/95 to-brand-dark"></div>
+    
+    <!-- Radial gold accent -->
+    <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-brand-gold/5 rounded-full blur-[120px] pointer-events-none"></div>
+
+    <!-- Hero content -->
+    <div class="relative z-10 max-w-5xl mx-auto px-6 sm:px-8 text-center">
+      <div class="animate-fade-in-up">
+        <!-- Badge -->
+        <div class="inline-flex items-center gap-3 px-5 py-2.5 rounded-full bg-white/5 border border-white/10 text-brand-gold font-bold text-xs tracking-[0.25em] uppercase mb-8">
+          <span class="w-2 h-2 bg-brand-gold rounded-full animate-pulse-gold"></span>
+          Southeast Asia's Premier Fight League
+        </div>
+
+        <!-- Headline -->
+        <h1 class="text-5xl sm:text-7xl md:text-8xl lg:text-9xl font-display font-black uppercase tracking-tighter leading-[0.85] mb-8">
+          Friday Night
+          <span class="block text-brand-gold">Fights</span>
+        </h1>
+
+        <!-- Subheadline -->
+        <p class="text-lg sm:text-xl md:text-2xl text-[#888] font-medium max-w-2xl mx-auto leading-relaxed mb-12">
+          The most electrifying Kun Khmer and MMA platform in Cambodia. 
+          World-class fighters. Legendary bouts. Every Friday.
+        </p>
+
+        <!-- CTA Buttons -->
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-6">
+          <a
+            href="/fighters"
+            class="group bg-brand-gold text-black px-10 py-4 font-bold rounded-2xl text-sm uppercase tracking-[0.2em] hover:bg-white transition-all shadow-[0_20px_60px_rgba(212,175,55,0.25)] active:scale-95 flex items-center gap-3"
+          >
+            Explore Roster
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="group-hover:translate-x-1 transition-transform"><path d="m9 18 6-6-6-6"/></svg>
+          </a>
+          <a
+            href="/watch"
+            class="px-10 py-4 font-bold rounded-2xl text-sm uppercase tracking-[0.2em] border border-white/10 text-white/80 hover:text-white hover:border-white/30 hover:bg-white/5 transition-all active:scale-95"
+          >
+            Watch Fights
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Scroll indicator -->
+    <div class="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center gap-3 text-white/20 animate-fade-in-up delay-500">
+      <span class="text-[9px] font-black uppercase tracking-[0.3em]">Scroll</span>
+      <div class="w-[1px] h-8 bg-gradient-to-b from-white/20 to-transparent"></div>
+    </div>
+  </section>
+
+  <!-- ═══════════ FEATURED FIGHTERS ═══════════ -->
+  <section class="py-24 sm:py-32 relative">
+    <div class="max-w-7xl mx-auto px-6 sm:px-8">
+      <!-- Section header -->
+      <div class="flex flex-col sm:flex-row items-start sm:items-end justify-between mb-16 gap-6">
+        <div>
+          <span class="text-brand-gold text-[10px] font-black uppercase tracking-[0.3em] mb-3 block">
+            The Roster
+          </span>
+          <h2 class="text-3xl sm:text-4xl md:text-5xl font-display font-black uppercase tracking-tighter">
+            Featured <span class="text-brand-gold">Fighters</span>
+          </h2>
+        </div>
+        <a
+          href="/fighters"
+          class="text-[11px] font-black uppercase tracking-[0.2em] text-white/50 hover:text-brand-gold transition-colors flex items-center gap-2 group"
+        >
+          View All
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="group-hover:translate-x-1 transition-transform"><path d="m9 18 6-6-6-6"/></svg>
+        </a>
+      </div>
+
+      <!-- Fighter cards grid -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+        {fighters.map((fighter) => (
+          <FighterCard fighter={fighter} />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════ CTA BANNER ═══════════ -->
+  <section class="py-24 sm:py-32 relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-r from-brand-gold/5 via-transparent to-brand-gold/5 pointer-events-none"></div>
+    <div class="max-w-4xl mx-auto px-6 sm:px-8 text-center relative z-10">
+      <h2 class="text-3xl sm:text-4xl md:text-5xl font-display font-black uppercase tracking-tighter mb-6">
+        Ready to <span class="text-brand-gold">Fight?</span>
+      </h2>
+      <p class="text-lg text-[#888] font-medium max-w-xl mx-auto mb-10">
+        Register as a fighter and join Southeast Asia's fastest growing combat sports platform. Kun Khmer. MMA. Your stage awaits.
+      </p>
+      <a
+        href="/register"
+        class="inline-flex bg-brand-gold text-black px-12 py-5 font-bold rounded-2xl text-sm uppercase tracking-[0.2em] hover:bg-white transition-all shadow-[0_20px_60px_rgba(212,175,55,0.25)] active:scale-95 items-center gap-3"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><line x1="19" y1="8" x2="19" y2="14"/><line x1="22" y1="11" x2="16" y2="11"/></svg>
+        Register Now
+      </a>
+    </div>
+  </section>
 </BaseLayout>

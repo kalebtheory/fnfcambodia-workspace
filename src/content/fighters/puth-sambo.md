@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 30
   draws: 2
   kos: 34
-heroImage: "../../assets/fighters/puth-sambo.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Puth Sambo

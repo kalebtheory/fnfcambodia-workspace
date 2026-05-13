@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 6
   draws: 3
   kos: 53
-heroImage: "../../assets/fighters/eh-amarin-phouthong.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Eh Amarin Phouthong

@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 0
   draws: 0
   kos: 15
-heroImage: "../../assets/fighters/kham-neakreach.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Kham Neakreach

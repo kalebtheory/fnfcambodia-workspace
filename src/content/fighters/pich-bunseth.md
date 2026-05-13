@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 26
   draws: 13
   kos: 65
-heroImage: "../../assets/fighters/pich-bunseth.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Pich Bunseth — Damrei Yol Dai (the Swing Elephant)

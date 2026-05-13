@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 20
   draws: 5
   kos: 38
-heroImage: "../../assets/fighters/him-serey.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Him Serey — Meat La-et Chet Damrey (small body with big gut)

@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 17
   draws: 3
   kos: 31
-heroImage: "../../assets/fighters/pich-sokha.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Pich Sokha

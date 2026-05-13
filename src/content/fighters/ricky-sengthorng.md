@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 2
   draws: 1
   kos: 26
-heroImage: "../../assets/fighters/ricky-sengthorng.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Ricky Sengthorng

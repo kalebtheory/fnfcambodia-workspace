@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 32
   draws: 4
   kos: 32
-heroImage: "../../assets/fighters/kim-veasna.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Kim Veasna — Kandab Dai Thmor Tonle Vaiko (the Stone Fist of Vaiko River)

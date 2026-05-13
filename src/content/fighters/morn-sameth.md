@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 54
   draws: 8
   kos: 57
-heroImage: "../../assets/fighters/morn-sameth.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Morn Sameth — Khla Chas Kampoul Labech (The Tricky Old Tiger)

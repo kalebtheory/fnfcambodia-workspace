@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 13
   draws: 5
   kos: 50
-heroImage: "../../assets/fighters/lao-chetra.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Lao Chetra

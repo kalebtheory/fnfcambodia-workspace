@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 21
   draws: 2
   kos: 23
-heroImage: "../../assets/fighters/nang-sav.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Nang Sav

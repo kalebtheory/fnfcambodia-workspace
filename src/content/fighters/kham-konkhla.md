@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 10
   draws: 2
   kos: 23
-heroImage: "../../assets/fighters/kham-konkhla.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Kham Konkhla

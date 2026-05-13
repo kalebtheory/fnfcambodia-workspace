@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 16
   draws: 4
   kos: 22
-heroImage: "../../assets/fighters/rith-phulu.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Rith Phulu — Tor Khmao Kamnach (The Fierce Black Lion)

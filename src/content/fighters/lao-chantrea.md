@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 11
   draws: 6
   kos: 73
-heroImage: "../../assets/fighters/lao-chantrea.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Lao Chantrea — Kaeng Machureach (the Killer Elbow)

@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 30
   draws: 4
   kos: 68
-heroImage: "../../assets/fighters/phal-sophorn.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Phal Sophorn — Damrey Phluk Pi Kheat (the killer elephant)

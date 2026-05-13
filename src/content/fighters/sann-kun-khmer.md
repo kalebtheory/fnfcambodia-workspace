@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 18
   draws: 6
   kos: 52
-heroImage: "../../assets/fighters/sann-kun-khmer.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Sann Kun Khmer — The King Kong

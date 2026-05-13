@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 6
   draws: 4
   kos: 27
-heroImage: "../../assets/fighters/koramak-chanreach.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Koramak Chanreach — (Chungkun Hos (the Flying Knee)

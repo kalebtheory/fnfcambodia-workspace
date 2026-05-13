@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 8
   draws: 3
   kos: 31
-heroImage: "../../assets/fighters/roeugn-chetra.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Roeugn Chetra

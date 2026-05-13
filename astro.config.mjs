@@ -9,5 +9,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   output: 'static',
-  site: 'https://crushcombat.com',
+  site: 'https://fnfcambodia.com',
 });

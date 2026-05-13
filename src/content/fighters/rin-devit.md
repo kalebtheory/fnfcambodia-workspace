@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 18
   draws: 4
   kos: 43
-heroImage: "../../assets/fighters/rin-devit.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Rin Devit — Kaun Neak Laor Kbach (The Young Dragon)

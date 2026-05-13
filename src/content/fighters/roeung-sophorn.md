@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 15
   draws: 5
   kos: 114
-heroImage: "../../assets/fighters/roeung-sophorn.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Roeung Sophorn — Dai Plaoeng Chaoeung Runtah

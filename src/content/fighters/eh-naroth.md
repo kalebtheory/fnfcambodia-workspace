@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 16
   draws: 2
   kos: 23
-heroImage: "../../assets/fighters/eh-naroth.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Eh Naroth

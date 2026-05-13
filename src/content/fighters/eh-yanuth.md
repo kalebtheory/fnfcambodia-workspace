@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 9
   draws: 6
   kos: 11
-heroImage: "../../assets/fighters/eh-yanuth.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Eh Yanuth — Reachni Trakol Eh (the Queen of the Ehs)

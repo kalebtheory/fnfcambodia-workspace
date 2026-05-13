@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 10
   draws: 1
   kos: 22
-heroImage: "../../assets/fighters/koeum-sovannkhim.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Koeum Sovannkhim — Kandap Dai Pyus Samot (The Storm Fist of the Sea)

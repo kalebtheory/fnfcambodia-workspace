@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 11
   draws: 3
   kos: 36
-heroImage: "../../assets/fighters/pich-kakada.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Pich Kakada — Nak Leng Kandab Dei Pikheat (the killer fist fighter)

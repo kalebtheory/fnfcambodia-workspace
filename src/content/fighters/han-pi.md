@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 7
   draws: 2
   kos: 29
-heroImage: "../../assets/fighters/han-pi.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Han Pi — Pich Kheat Muk Sros (The Angel of Death)

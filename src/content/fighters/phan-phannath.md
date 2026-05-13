@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 20
   draws: 2
   kos: 29
-heroImage: "../../assets/fighters/phan-phannath.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Phan Phannath — Teahean Knay Daek (the Steel Spur Soldier)

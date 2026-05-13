@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 33
   draws: 2
   kos: 61
-heroImage: "../../assets/fighters/khim-bora.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Khim Bora — Neak Meas Banteay Mean Chey (the Naga of Banteay Meanchey)

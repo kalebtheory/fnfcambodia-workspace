@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 28
   draws: 13
   kos: 19
-heroImage: "../../assets/fighters/som-vichhay.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Som Vichhay — Khla Sor Khet Svay Rieng (the White Tiger of Svay Rieng)

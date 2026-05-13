@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 15
   draws: 5
   kos: 35
-heroImage: "../../assets/fighters/sok-rith.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Sok Rith — Kandab Dai Ploeung (the Fury Fist)

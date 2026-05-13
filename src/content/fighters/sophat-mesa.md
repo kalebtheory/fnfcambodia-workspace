@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 7
   draws: 2
   kos: 42
-heroImage: "../../assets/fighters/sophat-mesa.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Sophat Mesa — Kon Damrei Sor Chum Tung (the teenage white elephant)

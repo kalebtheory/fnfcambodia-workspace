@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 21
   draws: 1
   kos: 19
-heroImage: "../../assets/fighters/pen-kak-eravan.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Pen Kak Eravan

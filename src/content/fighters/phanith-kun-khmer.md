@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 15
   draws: 1
   kos: 29
-heroImage: "../../assets/fighters/phanith-kun-khmer.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Phanith Kun Khmer

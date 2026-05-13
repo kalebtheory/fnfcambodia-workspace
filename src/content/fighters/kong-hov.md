@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 18
   draws: 5
   kos: 44
-heroImage: "../../assets/fighters/kong-hov.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Kong Hov — Runtah Choeung Damrei Chaon Kla (the thunderous kick of Damrei Choin Khla)

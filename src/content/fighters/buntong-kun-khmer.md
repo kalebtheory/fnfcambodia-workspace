@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 6
   draws: 2
   kos: 30
-heroImage: "../../assets/fighters/buntong-kun-khmer.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Buntong Kun Khmer

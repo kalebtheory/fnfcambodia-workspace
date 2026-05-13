@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 18
   draws: 6
   kos: 40
-heroImage: "../../assets/fighters/em-lengly.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Em Lengly

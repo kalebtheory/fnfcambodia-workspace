@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 16
   draws: 1
   kos: 10
-heroImage: "../../assets/fighters/em-daro.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Em Daro

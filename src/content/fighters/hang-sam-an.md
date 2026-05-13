@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 18
   draws: 7
   kos: 28
-heroImage: "../../assets/fighters/hang-sam-an.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Hang Sam An — Nak Chambang Korng Toip Pises (the Special Force Warrior)

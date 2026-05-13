@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 17
   draws: 2
   kos: 20
-heroImage: "../../assets/fighters/chin-chang.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Chin Chang

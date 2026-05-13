@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 9
   draws: 3
   kos: 41
-heroImage: "../../assets/fighters/lao-sayneth.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Lao Sayneth — Chungkung Pikheat Kaeng Chhes

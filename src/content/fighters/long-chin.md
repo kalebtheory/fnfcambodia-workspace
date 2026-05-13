@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 33
   draws: 6
   kos: 32
-heroImage: "../../assets/fighters/long-chin.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Long Chin — Khlarokhen Kamnach (the Fierce Panther)

@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 25
   draws: 2
   kos: 30
-heroImage: "../../assets/fighters/rith-vibol.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Rith Vibol

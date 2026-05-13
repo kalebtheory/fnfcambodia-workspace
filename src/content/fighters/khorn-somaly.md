@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 7
   draws: 3
   kos: 22
-heroImage: "../../assets/fighters/khorn-somaly.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Khorn Somaly — The All-in Fighter

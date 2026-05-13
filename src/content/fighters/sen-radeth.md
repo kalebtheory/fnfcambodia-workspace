@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 14
   draws: 1
   kos: 27
-heroImage: "../../assets/fighters/sen-radeth.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Sen Radeth

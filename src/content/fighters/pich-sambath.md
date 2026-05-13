@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 14
   draws: 5
   kos: 61
-heroImage: "../../assets/fighters/pich-sambath.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Pich Sambath — Krabei Prey Snaeng Daek (the Steel-horn Wild Buffalo)

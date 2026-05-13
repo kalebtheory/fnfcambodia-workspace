@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 31
   draws: 6
   kos: 43
-heroImage: "../../assets/fighters/ratanak-sothy.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Ratanak Sothy — Manus Yun (The Robot)

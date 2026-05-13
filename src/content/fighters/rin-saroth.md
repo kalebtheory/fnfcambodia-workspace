@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 24
   draws: 3
   kos: 17
-heroImage: "../../assets/fighters/rin-saroth.jpg"
+heroImage: "../../assets/fighters/placeholder.png"
 ---
 
 # Rin Saroth — Sdach Entri (the Eagle King)
