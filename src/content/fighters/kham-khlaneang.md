@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 15
   draws: 2
   kos: 65
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/kham-khlaneang.jpg"
 ---
 
 # Kham Khlaneang

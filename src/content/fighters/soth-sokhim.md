@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 13
   draws: 6
   kos: 20
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/soth-sokhim.jpg"
 ---
 
 # Soth Sokhim

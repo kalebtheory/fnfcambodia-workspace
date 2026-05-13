@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 55
   draws: 4
   kos: 62
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/soth-bunthy.jpg"
 ---
 
 # Soth Bunthy — Lok Metoip Thom (the Grand Knight)

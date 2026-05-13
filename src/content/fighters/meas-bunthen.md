@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 7
   draws: 2
   kos: 31
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/meas-bunthen.jpg"
 ---
 
 # Meas Bunthen

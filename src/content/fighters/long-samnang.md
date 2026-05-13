@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 28
   draws: 3
   kos: 34
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/long-samnang.jpg"
 ---
 
 # Long Samnang — Chungkung Peus (the Venomous Knee)

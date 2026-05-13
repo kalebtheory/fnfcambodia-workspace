@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 6
   draws: 2
   kos: 22
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/sam-oeun-sopha.jpg"
 ---
 
 # Sam Oeun Sopha — Neakareach Tbaung Khmum (The Naga of Tbaung Khmum)

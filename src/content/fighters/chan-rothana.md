@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 36
   draws: 4
   kos: 46
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/chan-rothana.jpg"
 ---
 
 # Chan Rothana

@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 30
   draws: 5
   kos: 29
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/kong-sambo.jpg"
 ---
 
 # Kong Sambo — Kon Neak Sor (the Little White Dragon)

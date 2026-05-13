@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 39
   draws: 2
   kos: 23
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/makara-kun-khmer.jpg"
 ---
 
 # Makara Kun Khmer

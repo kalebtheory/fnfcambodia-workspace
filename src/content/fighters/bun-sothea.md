@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 20
   draws: 4
   kos: 80
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/bun-sothea.jpg"
 ---
 
 # Bun Sothea — Khlarokhen Khet Kampong Cham (Kampong Cham’s Panther)

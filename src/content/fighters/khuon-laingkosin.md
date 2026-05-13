@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 12
   draws: 3
   kos: 18
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/khuon-laingkosin.jpg"
 ---
 
 # Khuon Laingkosin

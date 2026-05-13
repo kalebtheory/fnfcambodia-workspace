@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 2
   draws: 1
   kos: 14
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/dim-sarom.jpg"
 ---
 
 # Dim Sarom — Phka Rik Bang Sleuk (The Hidden Bloom)

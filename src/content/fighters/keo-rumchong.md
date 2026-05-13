@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 12
   draws: 11
   kos: 71
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/keo-rumchong.jpg"
 ---
 
 # Keo Rumchong

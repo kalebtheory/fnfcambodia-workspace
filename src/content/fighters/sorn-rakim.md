@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 14
   draws: 2
   kos: 23
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/sorn-rakim.jpg"
 ---
 
 # Sorn Rakim — Reahu Prak (the Silver Rahu)

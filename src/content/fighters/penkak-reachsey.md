@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 9
   draws: 2
   kos: 29
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/penkak-reachsey.jpg"
 ---
 
 # Penkak Reachsey

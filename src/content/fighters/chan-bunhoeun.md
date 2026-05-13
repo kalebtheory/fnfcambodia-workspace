@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 26
   draws: 5
   kos: 64
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/chan-bunhoeun.jpg"
 ---
 
 # Chan Bunhoeun — Nak Leng Runtah Cheung Pikheat (the thunderous kick)

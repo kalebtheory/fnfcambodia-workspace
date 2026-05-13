@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 35
   draws: 6
   kos: 32
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/long-achhaet.jpg"
 ---
 
 # Long Achhaet

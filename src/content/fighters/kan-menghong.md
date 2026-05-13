@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 21
   draws: 1
   kos: 69
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/kan-menghong.jpg"
 ---
 
 # Kan Menghong

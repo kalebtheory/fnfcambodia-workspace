@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 13
   draws: 1
   kos: 40
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/chamroen-kun-khmer.jpg"
 ---
 
 # Chamroen Kun Khmer

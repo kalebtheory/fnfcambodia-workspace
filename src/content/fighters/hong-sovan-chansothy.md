@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 13
   draws: 5
   kos: 34
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/hong-sovan-chansothy.jpg"
 ---
 
 # Hong Sovan Chansothy — Teahean Khnay Tann (the Steel Spur Soldier)

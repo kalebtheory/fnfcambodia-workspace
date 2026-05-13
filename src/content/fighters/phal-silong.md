@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 17
   draws: 2
   kos: 32
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/phal-silong.jpg"
 ---
 
 # Phal Silong — Damrei Pikheat Vei Khmeng (the Young Killer Elephant)

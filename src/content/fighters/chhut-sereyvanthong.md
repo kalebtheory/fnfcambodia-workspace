@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 12
   draws: 1
   kos: 53
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/chhut-sereyvanthong.jpg"
 ---
 
 # Chhut Sereyvanthong — Reahu Meas (the Golden Rahu)

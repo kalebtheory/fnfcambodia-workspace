@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 12
   draws: 6
   kos: 90
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/maeun-mekhea.png"
 ---
 
 # Maeun Mekhea — Nak Snorng Trakol (the Successor)

@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 20
   draws: 6
   kos: 34
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/leap-ratha.jpg"
 ---
 
 # Leap Ratha — Nak Leng Kandab Dai Thmor (the Stone Fist Fighter)

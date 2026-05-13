@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 18
   draws: 1
   kos: 25
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/reaksmey-kun-khmer.jpg"
 ---
 
 # Reaksmey Kun Khmer — Kranham Entri (the Eagle Claw)

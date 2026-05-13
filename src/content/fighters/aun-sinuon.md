@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 4
   draws: 1
   kos: 25
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/aun-sinuon.jpg"
 ---
 
 # Aun Sinuon

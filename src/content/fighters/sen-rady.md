@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 12
   draws: 6
   kos: 30
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/sen-rady.jpg"
 ---
 
 # Sen Rady

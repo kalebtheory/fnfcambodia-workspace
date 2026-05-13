@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 19
   draws: 2
   kos: 15
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/khem-chan.jpg"
 ---
 
 # Khem Chan — Tea Hean Khnay Meas

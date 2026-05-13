@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 23
   draws: 4
   kos: 42
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/long-benloeurn.jpg"
 ---
 
 # Long Benloeurn — Khla Khmao Muk Sros (The Black Tiger)

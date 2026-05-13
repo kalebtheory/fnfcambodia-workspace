@@ -7,7 +7,7 @@ kunKhmerRecord:
   losses: 7
   draws: 4
   kos: 26
-heroImage: "../../assets/fighters/placeholder.png"
+heroImage: "../../assets/fighters/rith-arun.jpg"
 ---
 
 # Rith Arun
