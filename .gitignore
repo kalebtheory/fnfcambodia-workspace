@@ -1,1 +1,8 @@
 node_modules
+.gstack/
+.astro/
+dist/
+.DS_Store
+*.swp
+.env
+.env.*
